@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <title>固定联系信息展示</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            max-width: 600px;
+            margin: 50px auto;
+            padding: 20px;
+            background-color: #f0f2f5;
+        }
+        .container {
+            background-color: white;
+            padding: 30px;
+            border-radius: 10px;
+            box-shadow: 0 2px 15px rgba(0,0,0,0.1);
+        }
+        .info-item {
+            margin: 20px 0;
+            padding: 15px;
+            border-left: 4px solid #4a90e2;
+            background-color: #f8f9fa;
+        }
+        .label {
+            color: #666;
+            font-weight: bold;
+        }
+        .value {
+            color: #2c3e50;
+            font-size: 1.1em;
+            margin-left: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h2 style="text-align: center; color: #4a90e2;">固定联系信息</h2>
+        
+        <div class="info-item">
+            <span class="label">电子邮件：</span>
+            <span class="value" id="email">contact@example.com</span>
+        </div>
+
+        <div class="info-item">
+            <span class="label">电话号码：</span>
+            <span class="value" id="phone">13812345678</span>
+        </div>
+
+        <!-- 移除了生成按钮，因为信息固定 -->
+    </div>
+</body>
+</html>
