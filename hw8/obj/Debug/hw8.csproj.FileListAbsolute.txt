@@ -1,0 +1,14 @@
+C:\Users\sheka\Desktop\hw8\obj\Debug\hw8.csproj.AssemblyReference.cache
+C:\Users\sheka\Desktop\hw8\obj\Debug\hw8.Properties.Resources.resources
+C:\Users\sheka\Desktop\hw8\obj\Debug\hw8.csproj.GenerateResource.cache
+C:\Users\sheka\Desktop\hw8\obj\Debug\hw8.csproj.CoreCompileInputs.cache
+C:\Users\sheka\Desktop\hw8\bin\Debug\hw8.exe.config
+C:\Users\sheka\Desktop\hw8\bin\Debug\hw8.exe
+C:\Users\sheka\Desktop\hw8\bin\Debug\hw8.pdb
+C:\Users\sheka\Desktop\hw8\bin\Debug\System.Data.SqlClient.dll
+C:\Users\sheka\Desktop\hw8\bin\Debug\System.Data.SqlClient.xml
+C:\Users\sheka\Desktop\hw8\obj\Debug\hw8.csproj.Up2Date
+C:\Users\sheka\Desktop\hw8\obj\Debug\hw8.exe
+C:\Users\sheka\Desktop\hw8\obj\Debug\hw8.pdb
+C:\Users\sheka\Desktop\hw8\obj\Debug\hw8.Form1.resources
+C:\Users\sheka\Desktop\hw8\obj\Debug\hw8.Form2.resources
